@@ -1,4 +1,4 @@
-# RepoEjemplo
+## RepoEjemplo
 
 ***Trabajo Git***
 
